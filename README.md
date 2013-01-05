@@ -1,4 +1,4 @@
 world.kirinsan.org
 ==================
 
-http://www.kirinsan.org
+http://world.kirinsan.org/
